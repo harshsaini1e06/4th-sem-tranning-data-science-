@@ -1,5 +1,5 @@
 # # question 1 :-
-a = int(input("enter the number : "))
+a = int(input("enter the number :"))
 if(a>1):
     print(a*(a+1))
 else:
@@ -19,8 +19,8 @@ def find(num):
     return n1, n2
 num = [1234,34,1234,34,53,3456,456,567,65,78,6,79,68,7890]
 n1, n2 = find(num)
-print("Maximum number:", n1)
-print("Minimum number:", n2)
+print("Maximum number :", n1)
+print("Minimum number :", n2)
 
 
 
